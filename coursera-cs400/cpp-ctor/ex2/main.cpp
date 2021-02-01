@@ -1,6 +1,6 @@
 /**
  * C++ program using the Cube's one arugment constructor.
- * 
+ *
  * @author
  *   Wade Fagen-Ulmschneider <waf@illinois.edu>
  */
