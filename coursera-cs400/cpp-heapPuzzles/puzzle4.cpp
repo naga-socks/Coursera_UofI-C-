@@ -1,6 +1,6 @@
 /**
  * C++ puzzle program.  Try to figure out the result before running!
- * 
+ *
  * @author
  *   Wade Fagen-Ulmschneider <waf@illinois.edu>
  */
