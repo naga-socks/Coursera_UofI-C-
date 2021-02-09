@@ -1,6 +1,6 @@
 /**
  * C++ program copying a Cube class.
- * 
+ *
  * @author
  *   Wade Fagen-Ulmschneider <waf@illinois.edu>
  */
